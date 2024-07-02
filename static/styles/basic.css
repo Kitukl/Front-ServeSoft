@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+
+body {
+	background-color: rgb(42, 42, 42);
+	font-family: Anton SC;
+	color: antiquewhite;
+}
+
 h1 {
-	color: aquamarine;
+	display: block;
+	text-align: center;
+}
+
+.images {
+	display: flex;
+	justify-content: center;
 }
